@@ -1,0 +1,13 @@
+Для набора случайно сгенерированных целых чисел
+нужно:
+■ Количество положительных;
+■ Количество отрицательных;
+■ Количество двухзначных;
+■ Количество зеркальных чисел. Например: 121, 4224.
+
+
+For a set of randomly generated integers, you need:
+■ The number of positive;
+■ The number of negative;
+■ The number of two-digit;
+■ The number of mirror numbers. For example: 121, 4224.
