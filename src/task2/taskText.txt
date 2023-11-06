@@ -1,0 +1,14 @@
+Для наборов названий продуктов (продукты могут повторяться) нужно:
+ - показать все продукты;
+ - показать все продукты с названием меньше 5 символов;
+ - показать сколько раз встречается продукт название которого вел пользователь;
+ - все продукты которые начинаются на заданную букву;
+ - показать все продукты из категории "Молоко".
+
+
+ For sets of product names (products can be repeated), you need to:
+ - show all products;
+ - show all products with a name less than 5 characters;
+ - show how many times there is a product whose name was led by the user;
+ - all products that start with a given letter;
+ - show all products from the "Milk" category.
