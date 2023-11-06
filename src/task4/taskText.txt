@@ -1,0 +1,30 @@
+Создайте класс "Проект" он должен хранить информацию:
+ - о названии проекта,
+ - год выпуска,
+ - цена,
+ - производитель.
+Нужно создать набор проектов и выполни следующие задачи:
+ - показать все проекты;
+ - показать все проекты одного производителя;
+ - показать все проекты текущего года;
+ - показать все проекты дороже заданный цены;
+ - показать все проекты отсортированные по цене по возрастанию;
+ - показать все проекты отсортированные по цене по убыванию;
+ - показать все проекты отсортированные по году выпуска по возрастанию;
+ - показать все проекты отсортированные по году выпуска по убыванию.
+
+
+ Create a class "Project" it should store information:
+ - about the name of the project,
+ - year of release,
+ - price,
+ - manufacturer.
+ You need to create a set of projects and perform the following tasks:
+ - show all projects;
+ - show all projects of the same manufacturer;
+ - show all projects of the current year;
+ - show all projects more expensive than the specified price;
+ - show all projects sorted by price in ascending order;
+ - show all projects sorted by price in descending order;
+ - show all projects sorted by year of release in ascending order;
+ - show all projects sorted by year of release in descending order.
