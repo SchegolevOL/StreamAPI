@@ -1,0 +1,26 @@
+Создайте класс "Устройство".  Он должен хранить информацию:
+о названии устройства,
+ год выпуска,
+ цена цвет,
+ тип устройства.
+Нужно создать набор устройств и выполнить следующие задачи:
+ - показать все устройства;
+ - показать все устройства заданного цвета;
+ - показать все устройства заданного года выпуска;
+ - показать все устройства дороже заданный цены ;
+ - показать все устройства заданного типа;
+ - показать все устройства чей год выпуска находится в указанном диапазоне.
+
+
+ Create a "Device" class. It should store information:
+ about the name of the device,
+ year of manufacture,
+ price, color,
+ type of device.
+ You need to create a set of devices and perform the following tasks:
+ - show all devices;
+ - show all devices of a given color;
+ - show all devices of the specified year of manufacture;
+ - show all devices more expensive than the specified price ;
+ - show all devices of a given type;
+ - show all devices whose year of manufacture is in the specified range.
